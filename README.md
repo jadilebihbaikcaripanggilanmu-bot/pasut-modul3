@@ -1,4 +1,4 @@
-# Web Pemodelan Pasut
+# Web Pemodelan Pasut v.1
 
 Website statis untuk membaca data pasut dari file CSV/XLSX, memilih sensor, memilih rentang waktu, memilih resolusi analisis (1 menit, 15 menit, 30 menit, 1 jam), lalu menampilkan plot observasi, model harmonik, residual, dan mengekspor report TXT.
 
